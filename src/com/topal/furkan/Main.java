@@ -14,7 +14,7 @@ public class Main {
 
     final long startTime = System.nanoTime();
 
-    printAnagramPairs("src/words_alpha.txt");
+    printAnagramPairs("words_alpha.txt");
 
     final long duration = System.nanoTime() - startTime;
     System.out.println("Duration of the program is: " + duration + " nanosecond.");
