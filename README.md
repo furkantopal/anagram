@@ -17,7 +17,7 @@
 #### 2. How do you verify your solution?
 
 I made test run with relatively small and huge datasets, the program worked as expected. You can
-find the datasets in the package as [small_dataset](src/anagram_basic.txt)
+find the datasets in the package as [small_dataset](anagram_basic.txt)
 and [huge_dataset](words_alpha.txt).
 
 #### 3. How complex is your program? How will it perform on large datasets?
